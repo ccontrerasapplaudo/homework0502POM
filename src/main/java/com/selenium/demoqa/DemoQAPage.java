@@ -9,7 +9,7 @@ import java.time.Duration;
 public class DemoQAPage {
     protected WebDriver driver;
 
-    private By formsElement = By.cssSelector("div.card.mt-4.top-card:nth-child(2)");
+    private By formsButton = By.cssSelector("div.card.mt-4.top-card:nth-child(2)");
 
     public DemoQAPage(WebDriver driver) {
         this.driver = driver;
@@ -20,6 +20,6 @@ public class DemoQAPage {
         driver.get("https://demoqa.com/");
     }
     public void clickOnFormsButton(){
-        driver.findElement(formsElement).click();
+        driver.findElement(formsButton).click();
     }
 }

@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5236579d-f87b-425a-b6f5-453f2511e129" name="Changes" comment="Initial Project Structure">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/demoqa/DemoQAPageTest.java" afterDir="false" />
+    <list default="true" id="5236579d-f87b-425a-b6f5-453f2511e129" name="Changes" comment="Steps 1 and 2 finished.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/demoqa/DemoQAFormsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/demoqa/DemoQAFormsPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/demoqa/DemoQAPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/demoqa/DemoQAPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/demoqa/DemoQAPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/demoqa/DemoQAPageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662477532833</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Steps 1 and 2 finished.">
+      <created>1662481715056</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662481715056</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +109,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Project Structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Project Structure" />
+    <MESSAGE value="Steps 1 and 2 finished." />
+    <option name="LAST_COMMIT_MESSAGE" value="Steps 1 and 2 finished." />
   </component>
 </project>
